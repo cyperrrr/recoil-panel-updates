@@ -1,6 +1,6 @@
 {
-  "version": "4.4",
-  "notes": "RecoilMenu v4.4 update.",
-  "download_url": "https://github.com/cyperrrr/recoil-panel-updates/releases/latest/download/RecoilMenu.exe",
-  "sha256": "732A803CC2D3AC91F9DEE67CD49A3781D0F0C77043AFAD111E6AE08AE3B88A73"
+  "version": "4.5",
+  "notes": "v4.5 release: added animated standalone updater GUI, SHA-256 verification, automatic backup/rollback, and one-click publishing via Publish_Update.bat.",
+  "download_url": "https://github.com/cyperrrr/recoil-panel-updates/releases/download/v4.5/RecoilMenu.exe",
+  "sha256": ""
 }
