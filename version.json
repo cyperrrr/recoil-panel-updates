@@ -1,5 +1,6 @@
 {
-  "version": "4.3",
-  "notes": "UI polish and update checker.",
-  "url": "https://github.com/cyperrrr/recoil-panel-updates/releases/latest"
+  "version": "4.4",
+  "notes": "RecoilMenu v4.4 update.",
+  "download_url": "https://github.com/cyperrrr/recoil-panel-updates/releases/latest/download/RecoilMenu.exe",
+  "sha256": "YOUR_REAL_SHA256_HASH"
 }
